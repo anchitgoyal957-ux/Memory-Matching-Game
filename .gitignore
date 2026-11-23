@@ -1,0 +1,18 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# Runtime-generated game data
+scores.txt
+highscores.txt
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS metadata
+.DS_Store
+Thumbs.db
